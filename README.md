@@ -1,4 +1,6 @@
-##Dermatology Problem
+
+## Dermatology Problem
+
 In this topic, you will develop a deep-learning model to address a dermatology classification 
 problem. The dataset used in this project contains several images, each corresponding to only 
 one specific disease. The folder contains only the metadata of each image with some disease 
